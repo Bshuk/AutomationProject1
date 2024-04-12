@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+       <suite name="Automation exercise page">
+         <test name="Automation exercise Test Cases">
+           <classes>
+	
+<class name="testcases.SignUpPageTest1"/>
+<class name="testcases.ValidUserTest2"/>
+<class name="testcases.InvalidUserTest3"/>
+<class name="testcases.LogoutUserTest4"/>
+<class name="testcases.ExistingUserTest5"/>
+<class name="testcases.ContactUsTest6"/>
+<class name="testcases.TestCaseTest7"/>
+<class name="testcases.ProductDetailsTest8"/>
+<class name="testcases.SearchTest9"/>
+<class name="testcases.SubscriptionTest10"/>
+<class name="testcases.CartSubscribeTest11"/>
+<class name="testcases.AddItemTest12"/>
+<class name="testcases.CartQuantityTest13"/>
+<class name="testcases.RegisterCheckoutTest14"/>
+<class name="testcases.BeforeCheckoutTest15"/>
+<class name="testcases.LoginCheckoutTest16"/>
+<class name="testcases.RemoveProductTest17"/>
+<class name="testcases.CategoryProductsTest18"/>
+<class name="testcases.BrandProductTest19"/>
+<class name="testcases.VerifyCartTest20"/>
+<class name="testcases.ReviewProductTest21"/>
+<class name="testcases.RecommendedItemTest22"/>
+<class name="testcases.BillingAddressTest23"/>
+<class name="testcases.DownloadInvoiceTest24"/>
+<class name="testcases.ScrollUpwithArrowTest25"/>
+<class name="testcases.ScrollUpwithoutArrow26"/>
+
+</classes>
+</test><!-- Test -->
+</suite><!-- Suite -->

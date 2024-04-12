@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-12T00:40:08 IST" name="Default suite" finished-at="2024-04-12T00:40:53 IST" duration-ms="45540">
+    <groups>
+    </groups>
+    <test started-at="2024-04-12T00:40:08 IST" name="Default test" finished-at="2024-04-12T00:40:53 IST" duration-ms="45540">
+      <class name="testcases.DownloadInvoiceTest24">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:08 IST" name="setUp" finished-at="2024-04-12T00:40:17 IST" duration-ms="8835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SignUpPageTitle()[pri:1, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:17 IST" name="SignUpPageTitle" finished-at="2024-04-12T00:40:17 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpPageTitle -->
+        <test-method signature="Add()[pri:2, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:17 IST" name="Add" finished-at="2024-04-12T00:40:20 IST" duration-ms="3509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add -->
+        <test-method signature="Usersignup()[pri:3, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:20 IST" name="Usersignup" finished-at="2024-04-12T00:40:25 IST" duration-ms="4738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Usersignup -->
+        <test-method signature="nextpage()[pri:4, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:25 IST" name="nextpage" finished-at="2024-04-12T00:40:26 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextpage -->
+        <test-method signature="Addressdeatils1()[pri:5, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:26 IST" name="Addressdeatils1" finished-at="2024-04-12T00:40:27 IST" duration-ms="1127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressdeatils1 -->
+        <test-method signature="Addressdeatils2()[pri:6, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:27 IST" name="Addressdeatils2" finished-at="2024-04-12T00:40:30 IST" duration-ms="2755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressdeatils2 -->
+        <test-method signature="accountCreated()[pri:7, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:30 IST" name="accountCreated" finished-at="2024-04-12T00:40:30 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountCreated -->
+        <test-method signature="Userlogged()[pri:8, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:30 IST" name="Userlogged" finished-at="2024-04-12T00:40:34 IST" duration-ms="4634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Userlogged -->
+        <test-method signature="GotoCart()[pri:9, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:34 IST" name="GotoCart" finished-at="2024-04-12T00:40:42 IST" duration-ms="7217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoCart -->
+        <test-method signature="verifyaddress()[pri:10, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:42 IST" name="verifyaddress" finished-at="2024-04-12T00:40:42 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddress -->
+        <test-method signature="verifyreview()[pri:11, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:42 IST" name="verifyreview" finished-at="2024-04-12T00:40:42 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyreview -->
+        <test-method signature="Ordernote()[pri:12, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:42 IST" name="Ordernote" finished-at="2024-04-12T00:40:43 IST" duration-ms="1617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ordernote -->
+        <test-method signature="creditcard()[pri:13, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:43 IST" name="creditcard" finished-at="2024-04-12T00:40:47 IST" duration-ms="4131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creditcard -->
+        <test-method signature="ordermsg()[pri:14, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:47 IST" name="ordermsg" finished-at="2024-04-12T00:40:48 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordermsg -->
+        <test-method signature="invoicelocation()[pri:15, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:48 IST" name="invoicelocation" finished-at="2024-04-12T00:40:48 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoicelocation -->
+        <test-method signature="Accdelete()[pri:16, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:48 IST" name="Accdelete" finished-at="2024-04-12T00:40:50 IST" duration-ms="2262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Accdelete -->
+        <test-method signature="Startagain()[pri:17, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:50 IST" name="Startagain" finished-at="2024-04-12T00:40:53 IST" duration-ms="2633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startagain -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:testcases.DownloadInvoiceTest24@8dbdac1]" started-at="2024-04-12T00:40:53 IST" name="Quit" finished-at="2024-04-12T00:40:53 IST" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- testcases.DownloadInvoiceTest24 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
